@@ -9,7 +9,4 @@ for(let i = 0; i < 100; i++){
     else if(currNum % 5 === 0){
         console.log(`${currNum} Buzz`);
     }
-    else{
-        console.log(currNum);
-    }
 }
